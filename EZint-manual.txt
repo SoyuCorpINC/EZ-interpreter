@@ -1,0 +1,25 @@
+Thank you for using SoyuCorpINC :)
+
+what you are reading right now is a short manual on how to use
+the EZ programming language interpreter.
+
+firstly, like any python program, you gotta double click on it to start it.
+after you've done that, the program should provide you with an input function.
+In this input function you have to put the filename of your EZ program with a .txt at the end of it.
+
+Lucky for you there is a basic program already given within the project.
+
+just type the name of this file with a .txt at the end.
+
+this should run the program written in it.
+to learn the basics of EZ you can use this test program
+as a starting point.
+the only thing it doesnt contain it the cut() function, which is still in developement.
+currently the cut() function can only be used on its own.
+
+EZ has a limited variable system for now, which will be fixed soon.
+
+currently the only variable useable for if statements are x,y, and z.
+for stand alone variables currently you can only use x,y,z,a,b, and c.
+
+for any further inquiries, please email me at soyuzspacecraft1@gmail.com
